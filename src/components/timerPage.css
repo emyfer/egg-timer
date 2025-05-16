@@ -1,0 +1,16 @@
+.timer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.timer img {
+    height: 260px;
+}
+
+.time {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 48px;
+}

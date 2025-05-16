@@ -1,0 +1,28 @@
+.final img {
+    height: 320px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.final {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.final p {
+    font-size: 48px;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.final button {
+    background-color: #FFCF8B;
+    border: 4px solid #FF9500;
+    font-family: 'Pixelify Sans';
+    font-size: 24px;
+    cursor: pointer;
+    width: 250px;
+    height: 50px;
+}
